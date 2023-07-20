@@ -1,0 +1,25 @@
+Greenland, S., Pearl, J., & Robins, J. M. (1999). Causal diagrams for epidemiologic research. Epidemiology, 37-48.
+
+Hernán, M. A., Hernández-Díaz, S., Werler, M. M., & Mitchell, A. A. (2002). Causal knowledge as a prerequisite for confounding evaluation: an application to birth defects epidemiology. American journal of epidemiology, 155(2), 176-184.
+
+Rohrer, J. M. (2018). Thinking clearly about correlations and causation: Graphical causal models for observational data. Advances in methods and practices in psychological science, 1(1), 27-42.
+
+VanderWeele, T. J., & Staudt, N. (2011). Causal diagrams for empirical legal research: a methodology for identifying causation, avoiding bias and interpreting results. Law, Probability & Risk, 10(4), 329-354.
+
+Cinelli, C., Forney, A., & Pearl, J. (2022). A crash course in good and bad controls. Sociological Methods & Research, 00491241221099552.
+
+Spector, P. E., & Brannick, M. T. (2011). Methodological urban legends: The misuse of statistical control variables. Organizational research methods, 14(2), 287-305.
+
+Westreich, D., & Greenland, S. (2013). The table 2 fallacy: presenting and interpreting confounder and modifier coefficients. American journal of epidemiology, 177(4), 292-298.
+
+Montgomery, J. M., Nyhan, B., & Torres, M. (2018). How conditioning on posttreatment variables can ruin your experiment and what to do about it. American Journal of Political Science, 62(3), 760-775.
+
+Acharya, A., Blackwell, M., & Sen, M. (2016). Explaining causal findings without bias: Detecting and assessing direct effects. American Political Science Review, 110(3), 512-529.
+
+Cole, S. R., & Hernán, M. A. (2002). Fallibility in estimating direct effects. International journal of epidemiology, 31(1), 163-165.
+
+Deffner, D., Rohrer, J. M., & McElreath, R. (2022). A causal framework for cross-cultural generalizability. Advances in Methods and Practices in Psychological Science, 5(3), 25152459221106366.
+
+Pearl, J., & Mackenzie, D. (2018). The book of why: the new science of cause and effect. Basic books.
+
+McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC.
